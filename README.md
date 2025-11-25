@@ -1,5 +1,4 @@
-<img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" />
-
+</center> <img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=50&duration=3000&pause=3000&color=8A0101&width=600&height=90&lines=Must+the+torture+be+the+same+%3F" alt="Typing SVG" /></a>
 
