@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=fawnsage&color=701f28&style=flat&label==ᗢ="/>
 </p>
 <p align="center"> 
- <img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86116b95-c91d-49b6-908c-3ecdba0676be" /> <img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86116b95-c91d-49b6-908c-3ecdba0676be" />
  <p align="center"> 
 <img width="500" height="500" alt="700" src="https://github.com/user-attachments/assets/fe460243-2303-4c48-8b12-2cb1f74a5223" />
 <p align="center"> 
-  <img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86116b95-c91d-49b6-908c-3ecdba0676be" /><img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86116b95-c91d-49b6-908c-3ecdba0676be" />
 
 <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=50&duration=3000&pause=3000&color=D28F62DC&width=500&height=90&lines=Always+an+angel+never+a+god." alt="Typing SVG" /></a>
