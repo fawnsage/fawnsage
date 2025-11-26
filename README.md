@@ -1,4 +1,7 @@
 <p align="center"> 
+<img src="https://i.pinimg.com/originals/65/ff/25/65ff25ffbe3786b2de094f7051bbd873.gif" alt="6wzk87f02cu01.gif (548×53)"/>
+ 
+  <p align="center"> 
  <img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" />
 
 <p align="center"> 
