@@ -15,8 +15,13 @@
 </p>
 <p align="center"> 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86116b95-c91d-49b6-908c-3ecdba0676be" /> <img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86116b95-c91d-49b6-908c-3ecdba0676be" />
- <p align="center"> 
-<img width="500" height="500" alt="700" src="https://github.com/user-attachments/assets/fe460243-2303-4c48-8b12-2cb1f74a5223" />
+
+   <p align="center"> 
+<img width="440" height="440" alt="image" src="https://github.com/user-attachments/assets/23d46708-e08c-4fa8-8391-559818be1f18" /> <img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/1c920198-3989-447b-9024-ab8b5b3f1c90" />
+
+
+
+
 <p align="center"> 
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86116b95-c91d-49b6-908c-3ecdba0676be" /><img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86116b95-c91d-49b6-908c-3ecdba0676be" />
 
@@ -38,8 +43,13 @@
 <p align="center"> 
  <img width="218" height="16" alt="image" src="https://github.com/user-attachments/assets/e353a141-4e7e-4e74-bc2e-747a62b410b3" />
 
+  <p align="center"> 
+𝚁𝚊𝚍𝚒𝚘𝚜𝚝𝚊𝚝𝚒𝚌/𝚜𝚒𝚕𝚎𝚗𝚌𝚎????? 𝚁𝚊𝚍𝚒𝚘𝚊𝚙𝚙𝚕𝚎 ???
+
+
  <p align="center"> 
-   𝚁𝚊𝚍𝚒𝚘𝚜𝚝𝚊𝚝𝚒𝚌/𝚜𝚒𝚕𝚎𝚗𝚌𝚎????? 𝚁𝚊𝚍𝚒𝚘𝚊𝚙𝚙𝚕𝚎 ???
+<img src="https://s3.ezgif.com/tmp/ezgif-37f57ce48875e388.webp" alt="STOP.......webp [crop output image]"/>
+<img src="https://64.media.tumblr.com/8bb7e7866332aa69b7c5a68b3295d834/fb5eef67f6302b64-94/s540x810/f551c39afe9c590adf9b5f22e8743fcdef2013cf.gifv" alt="#my layouts from vampireaxel"/>
 
  <p align="center"> Link Link
   
