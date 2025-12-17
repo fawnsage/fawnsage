@@ -48,8 +48,7 @@
 
 
  <p align="center"> 
-<img src="https://s3.ezgif.com/tmp/ezgif-37f57ce48875e388.webp" alt="STOP.......webp [crop output image]"/>
-<img src="https://64.media.tumblr.com/8bb7e7866332aa69b7c5a68b3295d834/fb5eef67f6302b64-94/s540x810/f551c39afe9c590adf9b5f22e8743fcdef2013cf.gifv" alt="#my layouts from vampireaxel"/>
+<img width="400" height="157" alt="image" src="https://github.com/user-attachments/assets/94484e42-a097-45a2-a53e-d57bf40bb8ed" /><img src="https://64.media.tumblr.com/8bb7e7866332aa69b7c5a68b3295d834/fb5eef67f6302b64-94/s540x810/f551c39afe9c590adf9b5f22e8743fcdef2013cf.gifv" alt="#my layouts from vampireaxel"/>
 
  <p align="center"> Link Link
   
